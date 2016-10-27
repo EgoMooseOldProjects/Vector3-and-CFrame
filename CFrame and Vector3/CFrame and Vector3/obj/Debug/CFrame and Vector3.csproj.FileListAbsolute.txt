@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\C# Projects\ConsoleApplications\CFrame and Vector3\CFrame and Vector3\bin\Debug\CFrame and Vector3.exe.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\C# Projects\ConsoleApplications\CFrame and Vector3\CFrame and Vector3\bin\Debug\CFrame and Vector3.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\C# Projects\ConsoleApplications\CFrame and Vector3\CFrame and Vector3\bin\Debug\CFrame and Vector3.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\C# Projects\ConsoleApplications\CFrame and Vector3\CFrame and Vector3\obj\Debug\CFrame and Vector3.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\C# Projects\ConsoleApplications\CFrame and Vector3\CFrame and Vector3\obj\Debug\CFrame and Vector3.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\C# Projects\ConsoleApplications\CFrame and Vector3\CFrame and Vector3\obj\Debug\CFrame and Vector3.pdb
