@@ -1,5 +1,5 @@
 # Vector3-and-CFrame-pure-Lua
-Vector3 and CFrame classes in pure Lua
+Vector3 and CFrame classes in pure Lua (also C# now!)
 
 These are a few "classes" (I use the term lightly) that I wrote for use in pure Lua. They are useful for anything 3D in gamedev or potentially mathematical. The CFrame class is used to store 3D positional/rotational data while the Vector3 class can be used in a similar fasion or for general mathematical usage.
 
